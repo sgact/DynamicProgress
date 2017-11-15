@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- top bar -->
+    <declare-styleable name="DynamicProgress">
+        <!-- 前景颜色1 -->
+        <attr name="color1" format="color"/>
+        <!-- 前景颜色2 -->
+        <attr name="color2" format="color"/>
+        <!-- 小菱形的宽度 -->
+        <attr name="unit_width" format="dimension"/>
+        <!-- 小菱形运动周期 -->
+        <attr name="period" format="integer"/>
+
+        <attr name="test10086" format="integer"/>
+    </declare-styleable>
+</resources>
