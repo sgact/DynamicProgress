@@ -10,7 +10,5 @@
         <attr name="unit_width" format="dimension"/>
         <!-- 小菱形运动周期 -->
         <attr name="period" format="integer"/>
-
-        <attr name="test10086" format="integer"/>
     </declare-styleable>
 </resources>
